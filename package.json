@@ -7,7 +7,7 @@
     "url": "https://github.com/KyleAMathews/hapi-influx/issues"
   },
   "dependencies": {
-    "influx": "^1.0.3",
+    "influx": "^2.1.0",
     "object-assign": "^1.0.0"
   },
   "devDependencies": {
